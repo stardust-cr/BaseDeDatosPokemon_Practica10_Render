@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Practica_10.Pokemon_Movimiento>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Pokemon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movimiento)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pokemon.NumeroPokemon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Movimiento.Nombre)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { item.NumPokemon,item.NumMovimiento }) |
+                    @Html.ActionLink("Details", "Details", new { item.NumPokemon, item.NumMovimiento }) |
+                    @Html.ActionLink("Delete", "Delete", new { item.NumPokemon, item.NumMovimiento })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

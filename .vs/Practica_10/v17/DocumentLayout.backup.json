@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corre\\source\\repos\\Practica_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\controllers\\consolascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\controllers\\consolascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\controllers\\pokemonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\controllers\\pokemonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\context\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\context\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\views\\pokemon_movimientos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\views\\pokemon_movimientos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\views\\pokemon_movimientos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\views\\pokemon_movimientos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\controllers\\pokemon_movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\controllers\\pokemon_movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\models\\pokemon_movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\models\\pokemon_movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\controllers\\movimientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\views\\jugadores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\views\\jugadores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\controllers\\jugadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\controllers\\jugadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\models\\consola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\models\\consola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|c:\\users\\corre\\source\\repos\\practica_10\\practica_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3D02FB-4873-4AAE-BC70-A59A521764D5}|Practica_10\\Practica_10.csproj|solutionrelative:practica_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Context\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Context\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Context\\MyDbContext.cs",
+              "RelativeToolTip": "Practica_10\\Context\\MyDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:26:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsolasController.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Controllers\\ConsolasController.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Controllers\\ConsolasController.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Controllers\\ConsolasController.cs",
+              "RelativeToolTip": "Practica_10\\Controllers\\ConsolasController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwGUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:28:17.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\appsettings.json",
+              "RelativeDocumentMoniker": "Practica_10\\appsettings.json",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\appsettings.json",
+              "RelativeToolTip": "Practica_10\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T18:31:11.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\Jugador.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Models\\Jugador.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\Jugador.cs",
+              "RelativeToolTip": "Practica_10\\Models\\Jugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:22:38.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\Pokemon.cs",
+              "RelativeToolTip": "Practica_10\\Models\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:46:16.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PokemonesController.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Controllers\\PokemonesController.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Controllers\\PokemonesController.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Controllers\\PokemonesController.cs",
+              "RelativeToolTip": "Practica_10\\Controllers\\PokemonesController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwGYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:29:29.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Context\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Context\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Context\\DbInitializer.cs",
+              "RelativeToolTip": "Practica_10\\Context\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:33:07.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Views\\Jugadores\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Practica_10\\Views\\Jugadores\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Views\\Jugadores\\Edit.cshtml",
+              "RelativeToolTip": "Practica_10\\Views\\Jugadores\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T17:56:57.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pokemon_MovimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Controllers\\Pokemon_MovimientosController.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Controllers\\Pokemon_MovimientosController.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Controllers\\Pokemon_MovimientosController.cs",
+              "RelativeToolTip": "Practica_10\\Controllers\\Pokemon_MovimientosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:15:31.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Views\\Pokemon_Movimientos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica_10\\Views\\Pokemon_Movimientos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Views\\Pokemon_Movimientos\\Index.cshtml",
+              "RelativeToolTip": "Practica_10\\Views\\Pokemon_Movimientos\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T18:15:47.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Views\\Pokemon_Movimientos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Practica_10\\Views\\Pokemon_Movimientos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Views\\Pokemon_Movimientos\\Details.cshtml",
+              "RelativeToolTip": "Practica_10\\Views\\Pokemon_Movimientos\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T18:17:23.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pokemon_Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\Pokemon_Movimiento.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Models\\Pokemon_Movimiento.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\Pokemon_Movimiento.cs",
+              "RelativeToolTip": "Practica_10\\Models\\Pokemon_Movimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:23:45.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\Movimiento.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Models\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\Movimiento.cs",
+              "RelativeToolTip": "Practica_10\\Models\\Movimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:46:10.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovimientosController.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Controllers\\MovimientosController.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Controllers\\MovimientosController.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Controllers\\MovimientosController.cs",
+              "RelativeToolTip": "Practica_10\\Controllers\\MovimientosController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwGIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:34:01.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JugadoresController.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Controllers\\JugadoresController.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Controllers\\JugadoresController.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Controllers\\JugadoresController.cs",
+              "RelativeToolTip": "Practica_10\\Controllers\\JugadoresController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:28:54.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Consola.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\Consola.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Models\\Consola.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\Consola.cs",
+              "RelativeToolTip": "Practica_10\\Models\\Consola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:22:23.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Practica_10\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:54:04.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Practica_10\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Practica_10\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T09:54:39.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica_10\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practica_10\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T19:14:01.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Program.cs",
+              "RelativeDocumentMoniker": "Practica_10\\Program.cs",
+              "ToolTip": "C:\\Users\\corre\\source\\repos\\Practica_10\\Practica_10\\Program.cs",
+              "RelativeToolTip": "Practica_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:30:12.209Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 312,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
